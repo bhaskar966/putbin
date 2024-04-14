@@ -526,5 +526,13 @@
 	         "author": "Unsplash",
 	         "url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/man_Cultivated_land.jpg",
 	         "downloadable": true
+	},
+	{
+	         "id": 67,
+	         "category": ["new category 1", "new category 2"],
+	         "name": "Hay You",
+	         "author": "Unsplash",
+	         "url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/man_Cultivated_land.jpg",
+	         "downloadable": true
 	}
 ] 
