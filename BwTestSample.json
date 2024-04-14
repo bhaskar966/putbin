@@ -472,12 +472,6 @@
 		"downloadable": true
 	},
 	{
-		"name": "Shaped",
-		"author": "Unsplash",
-		"url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/Shaped_Building.jpg",
-		"downloadable": true
-	},
-	{
 		"id": 60,
 		"category": ["WiGragit", "Unsplash"],
 		"name": "Sun Flower",
