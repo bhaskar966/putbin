@@ -1,9 +1,16 @@
 [
-
+	{
+		"id": 1,
+		"category": ["Android 12", "MOS"],
+		"name": "Android 12 Material Green",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/bhaskar966/MOS_KWGT/main/Android_1.png",
+		"downloadable": false
+	},
 	{
 		"id": 2,
 		"category": ["Android 12", "MOS"],
-		"name": "Android 12 mMuntains",
+		"name": "Android 12 Muntains",
 		"author": "Google",
 		"url": "https://github.com/bhaskar966/MOS_KWGT/raw/main/Android_2.png",
 		"downloadable": false
