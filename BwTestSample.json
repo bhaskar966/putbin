@@ -894,19 +894,5 @@
         "favoriteCount": 19,
         "clicks": 836,
         "downloadable": true
-    },
-    {
-        "id": 65,
-        "category": [
-            "WiGragit",
-            "Unsplash"
-        ],
-        "name": "Hill View",
-        "author": "Unsplash",
-        "url": "https://raw.githubusercontent.com/bhaskar966/WiGragit_KWGT/main/hillView.jpg",
-        "isPremium": false,
-        "favoriteCount": 89,
-        "clicks": 873,
-        "downloadable": true
     }
 ]
