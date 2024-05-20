@@ -935,5 +935,18 @@
         "favoriteCount": 738,
         "clicks": 930,
         "downloadable": true
+    },
+    {
+        "id": 68,
+        "category": [
+            "Anime"
+        ],
+        "name": "Monkey D Luffy",
+        "author": "Bhaskar Anime",
+        "url": "https://raw.githubusercontent.com/bhaskar966/putbin/main/Default_An_electrifying_vibrant_manga_of_a_highstakes_battle_w_0.jpg",
+        "isPremium": false,
+        "favoriteCount": 738,
+        "clicks": 930,
+        "downloadable": true
     }
 ]
